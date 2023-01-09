@@ -1,0 +1,2 @@
+local getaa = request({Url = "http://147.50.240.231:800/creamcute",Method = "Get"})
+table.foreach(getaa, print)
